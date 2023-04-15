@@ -1,2 +1,5 @@
 # simplesite
-100devs Simple Site
+
+## 100devs Simple Site
+
+https://styleshift.github.io/simplesite/
